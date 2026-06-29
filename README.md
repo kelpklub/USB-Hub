@@ -8,11 +8,11 @@ Made Using Macondo.hackclub.com's USB Hub Guide.
 - 2 Outpt USB C Connector
 - Has A Slot for Key Chain
 # BOM
-6x Resistor (5.1K)
-3x Type C USB connector
-11x Capacitor (8x1uF & 3x100nF)
-2x Type A USB connector
-SL2.1S USB Hub chip
+6x Resistor (5.1K)  
+3x Type C USB connector  
+11x Capacitor (8x1uF & 3x100nF)  
+2x Type A USB connector  
+SL2.1S USB Hub chip  
  
 
 
