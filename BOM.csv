@@ -1,0 +1,12 @@
+JLCPCB BOM Tool - BOM Matching,,,,,,,,,,,,,,,,,
+BOM name：6c651f8985d34363b022a77d01bdccae_1779803849000-JLCPCB Assembly Order.xlsx,,,Download Time：2026-06-29 23:39:20,,,,"* Our matching results are updated in real-time, but stock and prices may change. 
+If it's been over 24 hours, please re-match before placing your order.",,,,,,,,,,
+PCB Assembled Qty：5,,,Est. Total Price：2.8304,,,,,,,,,,,,,,
+Your BOM,,,,,Matched Parts,,,,,,,Order Information,,,,,
+Top Designator,Bottom Designator,Comment,Footprint,JLCPCB Part #,Matches,Part # ,Manufacturer,Footprint,Description,Category,Warning,JLCPCB Part #,Product link,Lib Type,Qty,Source,Total Price ($)
+"C1,C2,C3,C4,C5,C7,C9,C10",,1uF,C0603,,Select by System,CL10A105KB8NNNC,Samsung Electro-Mechanics,0603,1uF 50V X5R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Multilayer Ceramic Capacitors MLCC - SMD/SMT,,C15849,https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849,Basic,16,16 JLCPCB,0.576
+"C6,C8,C11",,100nF,C0603,,Select by System,CC0603KRX7R9BB104,YAGEO,0603,100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Multilayer Ceramic Capacitors MLCC - SMD/SMT,,C14663,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,Basic,6,6 JLCPCB,0.0708
+"R1,R2,R3,R4,R5,R6",,5.1K,R0603,,Select by System,0603WAF5101T5E,UNI-ROYAL(Uniroyal Elec),0603,-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,Chip Resistor - Surface Mount,,C23186,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186,Basic,12,12 JLCPCB,0.0276
+U1,,SL2.1s,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,Select by System,SL2.1s,CoreChips,SSOP-16,0℃~+70℃ 120mA 2.5mA 4 4V~5.25V Hub USB 2.0 SSOP-16 USB HUB Controllers ROHS,USB Converters,,C2684433,https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433,Extended,5,5 JLCPCB,1.2475
+"USB1,USB2,USB3",,TYPE-C16PIN2MD(073),USB-C-SMD_TYPE-C-16PIN-2MD-073,,Select by System,TYPE-C 16PIN 2MD(073),SHOU HAN,SMD,"-25℃~+85℃ 1 16P 3A 5,000 times 5V Black Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",USB Connectors,,C2765186,https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186,Extended,7,7 JLCPCB,0.5131
+"USB4,USB5",,10.0QHHTZB6.3,USB-A-TH_10.0QHHTZB6.3,,Select by System,10.0 QHHTZB6.3,SHOU HAN,SMD,"-25℃~+85℃ 1 1.5A 10mm 30V 4P 5,000 times Black Female Surface Mount, Right Angle Type-A USB 2.0 SMD USB Connectors ROHS",USB Connectors,,C668591,https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591,Extended,6,6 JLCPCB,0.3954
