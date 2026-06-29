@@ -13,6 +13,9 @@ Made Using Macondo.hackclub.com's USB Hub Guide.
 11x Capacitor (8x1uF & 3x100nF)  
 2x Type A USB connector  
 SL2.1S USB Hub chip  
+# Schematic 
+<img width="1190" height="845" alt="image" src="https://github.com/user-attachments/assets/0d72c381-ea9d-492d-aef2-58723d8d027d" />
+
  
 
 
